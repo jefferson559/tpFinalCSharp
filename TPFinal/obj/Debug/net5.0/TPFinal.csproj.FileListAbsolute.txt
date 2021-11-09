@@ -1,0 +1,16 @@
+/home/ccristaldo/RiderProjects/TPFinal/TPFinal/bin/Debug/net5.0/TPFinal
+/home/ccristaldo/RiderProjects/TPFinal/TPFinal/bin/Debug/net5.0/TPFinal.deps.json
+/home/ccristaldo/RiderProjects/TPFinal/TPFinal/bin/Debug/net5.0/TPFinal.runtimeconfig.json
+/home/ccristaldo/RiderProjects/TPFinal/TPFinal/bin/Debug/net5.0/TPFinal.runtimeconfig.dev.json
+/home/ccristaldo/RiderProjects/TPFinal/TPFinal/bin/Debug/net5.0/TPFinal.dll
+/home/ccristaldo/RiderProjects/TPFinal/TPFinal/bin/Debug/net5.0/ref/TPFinal.dll
+/home/ccristaldo/RiderProjects/TPFinal/TPFinal/bin/Debug/net5.0/TPFinal.pdb
+/home/ccristaldo/RiderProjects/TPFinal/TPFinal/obj/Debug/net5.0/TPFinal.csproj.AssemblyReference.cache
+/home/ccristaldo/RiderProjects/TPFinal/TPFinal/obj/Debug/net5.0/TPFinal.GeneratedMSBuildEditorConfig.editorconfig
+/home/ccristaldo/RiderProjects/TPFinal/TPFinal/obj/Debug/net5.0/TPFinal.AssemblyInfoInputs.cache
+/home/ccristaldo/RiderProjects/TPFinal/TPFinal/obj/Debug/net5.0/TPFinal.AssemblyInfo.cs
+/home/ccristaldo/RiderProjects/TPFinal/TPFinal/obj/Debug/net5.0/TPFinal.csproj.CoreCompileInputs.cache
+/home/ccristaldo/RiderProjects/TPFinal/TPFinal/obj/Debug/net5.0/TPFinal.dll
+/home/ccristaldo/RiderProjects/TPFinal/TPFinal/obj/Debug/net5.0/ref/TPFinal.dll
+/home/ccristaldo/RiderProjects/TPFinal/TPFinal/obj/Debug/net5.0/TPFinal.pdb
+/home/ccristaldo/RiderProjects/TPFinal/TPFinal/obj/Debug/net5.0/TPFinal.genruntimeconfig.cache
